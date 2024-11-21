@@ -86,7 +86,8 @@ RegisterNumber24013567:
 
 ## Output:
 ![logistic regression using gradient descent](sam.png)
-![exp 6 1](https://github.com/user-attachments/assets/ff73ea4c-01a9-4103-936d-b69aec0028d6)
+![exp 6 1](https://github.com/user-attachments/assets/779d0bf3-a0cc-4c51-a109-6997e49f97c9)
+
 
 
 ## Result:

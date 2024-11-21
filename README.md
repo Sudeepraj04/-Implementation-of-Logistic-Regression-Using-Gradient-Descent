@@ -20,7 +20,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 6.Making the confusion matrix 7.Visualizing the training set results.
 ## Program:
-# import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 dataset = pd.read_csv('Placement_Data.csv')
 dataset
@@ -85,7 +85,7 @@ RegisterNumber : 24013567
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
 ![exp 6 1](https://github.com/user-attachments/assets/779d0bf3-a0cc-4c51-a109-6997e49f97c9)
 
 

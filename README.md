@@ -8,6 +8,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+Algorithm
 1.Read the given dataset.
 
 2.Fitting the dataset into the training set and test set.
@@ -18,8 +19,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 5.Prediction of the test and result
 
-6.Making the confusion matrix 7.Visualizing the training set results.
+6.Making the confusion matrix
+
+7.Visualizing the training set results.
+
 ## Program:
+/*
+Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by: c r sudeep raj
+RegisterNumber : 24013567  
+*/
+```
 import numpy as np
 import matplotlib.pyplot as plt
 dataset = pd.read_csv('Placement_Data.csv')
@@ -76,19 +86,10 @@ y_prednew = predict(theta, xnew)
 print(y_prednew)
 xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
 y_prednew = predict(theta, xnew)
-print(y_prednew)```
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: c r sudeep raj
-RegisterNumber : 24013567  
-*/
-```
+print(y_prednew)
 
 ## Output:
-
-![exp 6 1](https://github.com/user-attachments/assets/779d0bf3-a0cc-4c51-a109-6997e49f97c9)
-
-
+![ml exp 6 output](https://github.com/user-attachments/assets/80f7a6c6-e094-401d-a50a-ead3112113d0)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.

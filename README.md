@@ -89,7 +89,8 @@ y_prednew = predict(theta, xnew)
 print(y_prednew)
 
 ## Output:
-![ml exp 6 output](https://github.com/user-attachments/assets/80f7a6c6-e094-401d-a50a-ead3112113d0)
+![logistic regression using gradient descent](sam.png)
+![exp 6 1](https://github.com/user-attachments/assets/8f60f0ea-1fb1-4e4c-a2d4-c54692c25064)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.

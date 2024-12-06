@@ -87,7 +87,7 @@ print(y_prednew)
 xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]])
 y_prednew = predict(theta, xnew)
 print(y_prednew)
-
+```
 ## Output:
 ![logistic regression using gradient descent](sam.png)
 ![ml 6](https://github.com/user-attachments/assets/1befd853-980f-4dc0-8e72-70f54b59a18d)
